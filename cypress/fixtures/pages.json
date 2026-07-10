@@ -1,0 +1,9 @@
+{
+  "about": "/about",
+  "agenticAi": "capabilities/agentic-ai",
+  "contactUs": "/contact-us",
+  "home": "/",
+  "insights": "/insights",
+  "labs": "/labs",
+  "piiRedaction": "/case-studies/pii-redaction"
+}
